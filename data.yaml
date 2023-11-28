@@ -1,0 +1,7 @@
+path: D:/ML_Projects/YOLOV8_Custom_Dataset/Object_Detection_Pothole
+train: train/images
+test: test/images
+val: val/images
+
+nc: 1
+names: ['pothole']
