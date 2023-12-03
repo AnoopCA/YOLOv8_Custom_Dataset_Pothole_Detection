@@ -6,5 +6,3 @@ test/
 train/
 val/
 yolov8m.pt
-yolov8l.pt
-yolov8x.pt
