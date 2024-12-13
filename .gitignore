@@ -5,4 +5,5 @@ runs/
 test/
 train/
 val/
+yolov8n.pt
 yolov8m.pt
